@@ -2,4 +2,3 @@ example@example.com
 example@example.com
 example@example.com
 example@example.com
-info@rshand.com
