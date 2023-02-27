@@ -1,0 +1,10 @@
+Hello,
+
+This is an automated email sent from a robot. The message sent was read from a plain text file.
+
+If you would like to use bold, italics, or colored text in your email message you can write your own HTML in the code in main.py with the BODY_HTML global variable
+
+Links should still work through this text file though, i.e. https://www.rshand.com
+
+Kind regards,
+Ryan
